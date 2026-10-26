@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="176" viewBox="0 0 720 176" role="img" aria-labelledby="title desc">
+  <title id="title">LoopVero</title>
+  <desc id="desc">LoopVero wordmark with mint loop symbol on a dark background.</desc>
+  <rect width="720" height="176" rx="24" fill="#101820"/>
+  <g transform="translate(24 24) scale(.5)">
+    <path d="M176 72H104C72 72 56 92 56 124V136C56 168 76 188 108 188H148C180 188 200 168 200 136V124" fill="none" stroke="#6FF0C4" stroke-width="20" stroke-linecap="round"/>
+    <rect x="186" y="58" width="28" height="28" rx="5" fill="#6FF0C4"/>
+  </g>
+  <text x="176" y="110" fill="#F4F7F9" font-family="system-ui, sans-serif" font-size="70" font-weight="650" letter-spacing="-2">LoopVero</text>
+</svg>

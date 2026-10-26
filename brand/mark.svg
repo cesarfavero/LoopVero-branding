@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">LoopVero symbol</title>
+  <desc id="desc">A mint rounded loop ending near a square on a dark background.</desc>
+  <rect width="256" height="256" rx="48" fill="#101820"/>
+  <path d="M176 72H104C72 72 56 92 56 124V136C56 168 76 188 108 188H148C180 188 200 168 200 136V124" fill="none" stroke="#6FF0C4" stroke-width="20" stroke-linecap="round"/>
+  <rect x="186" y="58" width="28" height="28" rx="5" fill="#6FF0C4"/>
+</svg>

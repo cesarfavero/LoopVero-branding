@@ -1,0 +1,14 @@
+:root {
+  --lv-ink: #101820;
+  --lv-paper: #f4f7f9;
+  --lv-mint: #6ff0c4;
+  --lv-muted: #a9b8c5;
+  --lv-font-sans: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --lv-font-mono: ui-monospace, SFMono-Regular, Consolas, monospace;
+  --lv-space-1: 0.25rem;
+  --lv-space-2: 0.5rem;
+  --lv-space-3: 1rem;
+  --lv-space-4: 1.5rem;
+  --lv-space-5: 2.5rem;
+  --lv-radius: 0.75rem;
+}
